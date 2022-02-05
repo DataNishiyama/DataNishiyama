@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DataNishiyama
-- 👀 I’m interested in Full Stack Development / Data Science / Data Analysis
-- 🌱 I’m currently learning Golang
+- 👀 I’m interested in Full Stack Cloud Development / Data Science / Data Analysis
+- 🌱 I’m currently learning Golang and 
 - 💞️ I’m looking to collaborate on making the world better.
 - 📫 How to reach me: datanishiyama@gmail.com
 
